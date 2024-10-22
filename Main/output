@@ -1,1 +1,85 @@
+PS C:\Users\amede\Downloads> & C:/Users/amede/AppData/Local/Microsoft/WindowsApps/python3.12.exe c:/Users/amede/Downloads/OOP-Challenge.py
+No saved purchases found.
+
+E-Book Reader Menu:
+1. Display Available Books
+2. Buy a Book
+3. View Purchased Books
+4. Read a Book
+5. Display Available Genres
+6. Filter Books by Genre
+7. Search by Author
+8. Search by Title
+9. Top Purchased Books
+10. Save Purchases
+11. Exit
+Choose an option:
+
+Choose an option: 1
+Available Books:
+1. Title: The Little Liar, Author: Mitch Albom, Pages: 279,Genre:Fiction,Purchased: 0 times
+2. Title: Moby Dick, Author: Herman Melville, Pages: 635,Genre:Classic,Purchased: 0 times
+3. Title: The Hunger Games, Author: Suzanne Collins, Pages: 358,Genre:Fanasty,Purchased: 0 times
+4. Title: Frankenstein, Author: Mary Shelley, Pages: 280,Genre:Horror,Purchased: 0 times
+5. Title: The Keeper, Author: Buck Turner, Pages: 320,Genre:Thriller,Purchased: 0 times
+
+Choose an option: 2
+Available Books:
+1. Title: The Little Liar, Author: Mitch Albom, Pages: 279,Genre:Fiction,Purchased: 0 times
+2. Title: Moby Dick, Author: Herman Melville, Pages: 635,Genre:Classic,Purchased: 0 times
+3. Title: The Hunger Games, Author: Suzanne Collins, Pages: 358,Genre:Fanasty,Purchased: 0 times
+4. Title: Frankenstein, Author: Mary Shelley, Pages: 280,Genre:Horror,Purchased: 0 times
+5. Title: The Keeper, Author: Buck Turner, Pages: 320,Genre:Thriller,Purchased: 0 times
+Enter the number of the book you want to buy:
+
+Choose an option: 3
+Your Purchased Books:
+Title: The Hunger Games, Author: Suzanne Collins, Pages: 358,Genre:Fanasty,Purchased: 1 times
+
+Choose an option: 4
+Your Purchased Books:
+Title: The Hunger Games, Author: Suzanne Collins, Pages: 358,Genre:Fanasty,Purchased: 1 times
+Enter the number of the book you want to read:
+
+Choose an option: 5
+Available Genres:
+- Classic
+- Thriller
+- Horror
+- Fiction
+
+
+Choose an option: 6
+Available Genres:
+- Classic
+- Thriller
+- Horror
+- Fiction
+Enter a genre to filter by: Classic
+Books in Classic genre:
+Title: Moby Dick, Author: Herman Melville, Pages: 635,Genre:Classic,Purchased: 0 times
+
+Choose an option: 7
+Enter the author's name: Herman Melville
+Books by Herman Melville:
+Title: Moby Dick, Author: Herman Melville, Pages: 635,Genre:Classic,Purchased: 0 times
+
+Choose an option: 8
+Enter the title of the book: The hunger Games
+Found: Title: The Hunger Games, Author: Suzanne Collins, Pages: 358,Genre:Fanasty,Purchased: 1 times
+
+Choose an option: 9
+The top 3 most purchased Booka are:
+Title: The Little Liar, Author: Mitch Albom, Pages: 279,Genre:Fiction,Purchased: 0 times
+Title: Moby Dick, Author: Herman Melville, Pages: 635,Genre:Classic,Purchased: 0 times
+Title: The Hunger Games, Author: Suzanne Collins, Pages: 358,Genre:Fanasty,Purchased: 0 times
+
+Choose an option: 10
+Purchased books saved.
+
+Choose an option: 11
+Exiting the e-book reader.
+PS C:\Users\amede\Downloads>
+
+
 
